@@ -59,8 +59,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message,
             if (secondWindowDescriptor == nullptr)
                 MessageBox(hWnd, TEXT("Second window not found!"), TEXT(":("), MB_OK);
             else { 
-            MessageBox(hWnd, TEXT("Second window found!"), TEXT(":)"), MB_OK); 
-            SendMessage(secondWindowDescriptor, WM_USER + 1, NULL, NULL);
+                MessageBox(hWnd, TEXT("Second window found!"), TEXT(":)"), MB_OK); 
+                SendMessage(secondWindowDescriptor, WM_USER + 1, NULL, NULL);
             }
             break;
         case WM_RBUTTONUP:

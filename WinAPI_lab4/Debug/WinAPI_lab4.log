@@ -1,0 +1,5 @@
+﻿  WinAPI_lab4.cpp
+C:\Users\lenya\source\repos\WinAPI_lab2\WinAPI_lab4\WinAPI_lab4.cpp(99,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\lenya\source\repos\WinAPI_lab2\WinAPI_lab4\WinAPI_lab4.cpp(105,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\lenya\source\repos\WinAPI_lab2\WinAPI_lab4\WinAPI_lab4.cpp(107,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  WinAPI_lab4.vcxproj -> C:\Users\lenya\source\repos\WinAPI_lab2\Debug\WinAPI_lab4.exe
